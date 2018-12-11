@@ -1,0 +1,3 @@
+[submodule "vendor/reviz0r/jsonrpc-gateway"]
+	path = vendor/reviz0r/jsonrpc-gateway
+	url = https://github.com/reviz0r/jsonrpc-gateway

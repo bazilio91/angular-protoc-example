@@ -12,6 +12,9 @@
     "typeRoots": [
       "node_modules/@types"
     ],
+    "paths": {
+      "@protobuf/*": ["vendor/reviz0r/jsonrpc-gateway/example/service/*"]
+    },
     "lib": [
       "es2017",
       "dom"
